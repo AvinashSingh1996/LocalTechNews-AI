@@ -124,7 +124,7 @@ This setup is designed for:
     },
     {
       "parameters": {
-        "sendTo": "avinash96sngh@gmail.com",
+        "sendTo": "your mail id",
         "subject": "Weekly tech newsletter",
         "message": "={{ $json.data }}",
         "options": {}
